@@ -36,7 +36,7 @@ nav .nav-right-section a{
 }
 
 nav .nav-right-section .menu-icon{
-    background-image: url('https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png');
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.neoteo.com%2Fwp-content%2Fuploads%2F2018%2F12%2Flogo-40.jpg&f=1&nofb=1');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -95,22 +95,22 @@ main .main-input-container{
     }
 
     main .main-input .search-icon{
-        background-image: url('https://img.icons8.com/android/24/000000/search.png');
+        background-image: url('https://w7.pngwing.com/pngs/854/164/png-transparent-detective-graphics-cartoon-private-investigator-illustration-magnifying-glass-cartoon-glass-illustrator-detective.png');
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
-        width: 18px;
-        height: 18px;
+        width: 40px;
+        height: 40px;
 
     }
 
    main .main-input .micro-icon{
-        background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/726px-Google_mic.svg.png');
+        background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fce%2F6f%2F07%2Fce6f077ad676668430af1ee473973468.jpg&f=1&nofb=1');
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
-        width: 18px;
-        height: 18px;
+        width: 25px;
+        height: 25px;
         cursor: pointer;
     }
 
